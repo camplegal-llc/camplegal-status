@@ -5,9 +5,9 @@ sites:
   - name: Lawyer Portal
     url: https://lawyer.camplegal.com/
   - name: Customer Portal
-    url: https://client.camplegal.com/
+    url: https://client.camplegal.com/login
   - name: Corp Portal
-    url: https://corp.camplegal.com/
+    url: https://corp.camplegal.com/login
   - name: API
     url: https://api.camplegal.com/api/v1/mobile/ping
     expectedStatusCodes:
