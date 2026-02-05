@@ -1,7 +1,7 @@
-url: https://client.camplegal.com/
-status: down
-code: 401
-responseTime: 258
-lastUpdated: 2026-02-05T15:28:02.534Z
+url: https://client.camplegal.com/login
+status: up
+code: 200
+responseTime: 383
+lastUpdated: 2026-02-05T16:04:37.236Z
 startTime: 2026-02-05T15:28:02.170Z
 generator: Upptime <https://github.com/upptime/upptime>
