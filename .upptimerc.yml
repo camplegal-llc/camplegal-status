@@ -26,3 +26,13 @@ status-website:
       href: https://camplegal.com
     - title: Support
       href: mailto:support@camplegal.com
+
+workflowSchedule:
+  graphs: "0 0 * * *"      # Daily graphs update
+  responseTime: "0 23 * * *"  # Response time check
+  staticSite: "0 1 * * *"   # Rebuild site daily
+  summary: "0 0 * * *"      # Daily summary
+  updateTemplate: "0 0 * * *"
+  updates: "*/5 * * * *"    # Check every 5 minutes
+  uptime: "*/5 * * * *"     # Uptime check every 5 minutes
+  
