@@ -17,6 +17,7 @@ sites:
 
 status-website:
   publish: true
+  baseUrl: /camplegal-status
   logoUrl: https://d160bvpqb05zv9.cloudfront.net/microsoft-add-in/assets/CampLegal32.png
   name: CampLegal Status
   introTitle: "**CampLegal** System Status"
