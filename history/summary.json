@@ -4,10 +4,10 @@
     "url": "https://lawyer.camplegal.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lawyer.camplegal.com.ico",
     "slug": "lawyer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
@@ -15,17 +15,19 @@
     "timeWeek": 309,
     "timeMonth": 300,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-20": 1
+    }
   },
   {
     "name": "Customer Portal",
     "url": "https://client.camplegal.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/client.camplegal.com.ico",
     "slug": "customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 282,
@@ -34,6 +36,7 @@
     "timeMonth": 271,
     "timeYear": 282,
     "dailyMinutesDown": {
+      "2026-03-20": 1,
       "2026-02-05": 24
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://corp.camplegal.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/corp.camplegal.com.ico",
     "slug": "corp-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -54,6 +57,7 @@
     "timeMonth": 281,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2026-03-20": 0,
       "2026-02-05": 24
     }
   },
