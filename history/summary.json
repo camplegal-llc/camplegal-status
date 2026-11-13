@@ -29,16 +29,16 @@
     "url": "https://client.camplegal.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/client.camplegal.com.ico",
     "slug": "customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 285,
-    "timeDay": 179,
-    "timeWeek": 318,
-    "timeMonth": 300,
+    "timeDay": 142,
+    "timeWeek": 291,
+    "timeMonth": 294,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2026-02-05": 24,
@@ -47,7 +47,8 @@
       "2026-06-02": 8,
       "2026-06-26": 18,
       "2026-06-27": 31,
-      "2026-06-28": 59
+      "2026-06-28": 59,
+      "2026-11-13": 0
     }
   },
   {
